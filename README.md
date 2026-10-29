@@ -11,10 +11,10 @@ I'm passionate about building useful web applications, exploring new technologie
 
 ### 🛠️ Tech Stack
 
-   **Frontend:** HTML, CSS, JavaScript, React.js  
-   **Backend:** Java, Spring Boot, Node.js, Express.js  
-   **Database:** MySQL, MongoDB  
-   **Tools:** Git, GitHub, VS Code
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Backend:** Java, Spring Boot, Node.js, Express.js
+- **Database:** MySQL, MongoDB
+- **Tools:** Git, GitHub, VS Code
 
 ### 🚀 Featured Projects
 
@@ -27,7 +27,6 @@ I'm passionate about building useful web applications, exploring new technologie
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/siddu-b-r-b05210385/)
 - 🌍 [Portfolio](https://my-portfoliosiddubr119.vercel.app/)
-
 
 ---
 
