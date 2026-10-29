@@ -11,10 +11,10 @@ I'm passionate about building useful web applications, exploring new technologie
 
 ### 🛠️ Tech Stack
 
-**Frontend:** HTML, CSS, JavaScript, React.js  
-**Backend:** Java, Spring Boot, Node.js, Express.js  
-**Database:** MySQL, MongoDB  
-**Tools:** Git, GitHub, VS Code
+  **Frontend:** HTML, CSS, JavaScript, React.js  
+  **Backend:** Java, Spring Boot, Node.js, Express.js  
+  **Database:** MySQL, MongoDB  
+  **Tools:** Git, GitHub, VS Code
 
 ### 🚀 Featured Projects
 
