@@ -27,7 +27,7 @@ I'm passionate about building useful web applications, exploring new technologie
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/siddu-b-r-b05210385/)
 - 🌍 [Portfolio](https://my-portfoliosiddubr119.vercel.app/)
-- 💻 [GitHub](https://github.com/Siddu-119)
+
 
 ---
 
