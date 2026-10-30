@@ -1,6 +1,6 @@
 # Hi there, I'm Siddu B R 👋
 
-### 💻 Engineering Student | Aspiring Full-Stack Developer
+### 💻 Engineering Student | 💻 Passionate About Software Development | Building Ideas Into Reality 🚀
 
 I'm passionate about building useful web applications, exploring new technologies, and improving my development skills through hands-on projects.
 
