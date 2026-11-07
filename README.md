@@ -25,7 +25,7 @@ I'm passionate about software development and enjoy turning ideas into practical
 
 ### 🌐 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/siddu-b-r-b05210385/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/siddubr/)
 - 🌍 [Portfolio](https://my-portfoliosiddubr119.vercel.app/)
 - 💻 [GitHub](https://github.com/Siddu-119)
 
